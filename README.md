@@ -10,5 +10,12 @@ flutter pub get
 ```
 flutter run
 ```
+### ✌&ensp;Preview
 
-![sample](sample.png)
+|               List view Preview             |             Search Preview           |
+| :----------------------------------: | :----------------------------------: |
+|  <img src="sample.png" width="350"> | <img src="sample2.png" width="350">|
+
+[comment]: <> (![sample]&#40;sample.png&#41;)
+
+[comment]: <> (![sample2]&#40;sample2.png&#41;)
